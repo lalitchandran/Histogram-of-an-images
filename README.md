@@ -120,7 +120,7 @@ plt.axis('off')
 
 ![image](https://github.com/user-attachments/assets/75da697b-5327-42e2-8f06-834064eb3e3c)
 
-![image](https://github.com/user-attachments/assets/7680389f-a4bb-4e25-ab20-118c3ab1aeb7)
+
 
 
 
