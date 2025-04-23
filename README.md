@@ -99,21 +99,27 @@ plt.axis('off')
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![image](https://github.com/user-attachments/assets/c3949f14-2e1a-4eb1-a7e1-1c597c7f8231)
+![image](https://github.com/user-attachments/assets/533e3385-cec9-4517-872f-cc241d7b8898)
+
 
 
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-![image](https://github.com/user-attachments/assets/ebfb1e8c-db26-48ce-8c0b-0e14208611d1)
+![image](https://github.com/user-attachments/assets/22b5d286-3b16-49ea-b917-cbcab51ffd18)
+
 
 ### Histogram Equalization of Grayscale Image.
 
-![image](https://github.com/user-attachments/assets/d9a0c8c0-29b0-4b63-884d-e4cffa654cb3)
-![image](https://github.com/user-attachments/assets/7b0adfb4-c8c7-450e-b934-a821cbc3cac8)
-![image](https://github.com/user-attachments/assets/649e65d3-7204-43f3-8025-f1565e685f12)
-![image](https://github.com/user-attachments/assets/8473436f-18be-4cd6-98d4-d3aef161cbbe)
+![image](https://github.com/user-attachments/assets/c3e6243b-3f56-492b-9261-e171fb26baa2)
+
+![image](https://github.com/user-attachments/assets/a9ecc662-1326-446d-a881-776bb86f5082)
+
+![image](https://github.com/user-attachments/assets/9fc59139-98f3-4bbc-ba8c-53a94447591f)
+
+![image](https://github.com/user-attachments/assets/75da697b-5327-42e2-8f06-834064eb3e3c)
+
 ![image](https://github.com/user-attachments/assets/7680389f-a4bb-4e25-ab20-118c3ab1aeb7)
 
 
